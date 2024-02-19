@@ -7,9 +7,8 @@ Repositorio de Seccion de Investigacion Profesional
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
+6. [Prueba](#prueba)
 
-## Prueba
-1. [XDDDDDDDDD](#Estructura de la aplicación)
 
 ## Generalidades del proyecto
 ### Descripción
@@ -64,6 +63,10 @@ Side information: To use the application in a special environment use ```lorem i
 ***
 Colocar el enlace de la documentación de la API (En caso de ser microservicios).
 * [Documentacón de la API](https://pokeapi.co/): Version 1.0.0
+
+## Prueba
+1. HOLA MUNDO
+
 ## FAQs
 ***
 Listado de preguntas, comentarios y notas que sean relevantes en cada una de las versiones del aplicativo
