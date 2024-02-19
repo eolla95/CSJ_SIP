@@ -11,6 +11,9 @@ Repositorio de Seccion de Investigacion Profesional
 
 
 ## Generalidades del proyecto
+1. Edgar Alonso Olla
+2. German Alfonso Garcia
+
 ### Descripción
 ***
 Escribe la descripción del proyecto
