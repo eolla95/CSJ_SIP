@@ -9,7 +9,7 @@ Repositorio de Seccion de Investigacion Profesional
 5. [FAQs](#faqs)
 
 ## Prueba
-1. [XDDDDDDDDD](#www.google.com)
+1. [XDDDDDDDDD](#Estructura de la aplicación)
 
 ## Generalidades del proyecto
 ### Descripción
